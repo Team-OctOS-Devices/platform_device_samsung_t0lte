@@ -200,4 +200,7 @@
          format is UMTS|LTE|... -->
     <string translatable="false" name="config_radio_access_family">LTE|CDMA|EVDO|GPRS|EDGE|UMTS|HSDPA|HSUPA|HSPA|HSPAP|GSM|WCDMA</string>
 
+    <!-- Hardware keys on/off option -->
+    <bool name="config_hwKeysPref">true</bool>
+
 </resources>
